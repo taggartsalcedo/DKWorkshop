@@ -1,0 +1,26 @@
+* {
+    ;
+}
+
+.h1 {
+    text-align: center;
+    border: solid;
+    border-style: solid;
+}
+
+.dk1 {
+    text-align: center;
+    width: 200px;
+    height: 250px;
+}
+
+.dk {
+    background-color:yellow;
+    overflow: scroll;
+    white-space: nowrap;
+    padding: 5px;
+}
+
+.dk3 {
+    border-style: solid;
+}
